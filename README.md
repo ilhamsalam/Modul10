@@ -1,5 +1,5 @@
 # Latihan modul 10
-Penjelasan singkat pada tiap latihan soal modul 7
+Penjelasan singkat pada tiap latihan soal modul 10
 
 ## Setiap soal
 Pada setiap soal saya menggunakan beberapa komponen :
